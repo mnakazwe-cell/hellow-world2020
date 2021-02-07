@@ -1,1 +1,3 @@
-# hellow-world2020
+# maven-project
+
+Simple Maven Project
