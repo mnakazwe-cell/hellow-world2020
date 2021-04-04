@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "kserge2001@yahoo.fr" 
+MAINTAINER "mnakazwe19@students.desu.edu" 
 #COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
