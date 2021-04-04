@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "mnakazwe19@students.desu.edu" 
+MAINTAINER "mnakazwe-cell" 
 #COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
